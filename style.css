@@ -440,7 +440,7 @@ header img {
 
 .plans--container--slider {
     display: flex;
-    height: 316px;
+    height: 320px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
